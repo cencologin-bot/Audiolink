@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Audio Link</string>
+    <string name="a11y_description">Detecta cuando escribes /audio en un campo de texto y muestra la tarjeta de Audio Link encima de ese campo. No guarda ni envía lo que escribes.</string>
+</resources>
